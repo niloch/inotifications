@@ -1,9 +1,9 @@
-inotification
+inotifications
 =================
 
 ## Notifications in ipython/jupyter notebooks
 
-inotifications is a simple package for generating alerts or notifications in ipython/jupyter notebooks.  Notifications can be used to alert the user when a long running cell as completed as when training a machine learning model.  Visual and audio notifications are available as well as a combined
+inotifications is a simple package for generating alerts or notifications in ipython/jupyter notebooks.  Notifications can be used to alert the user when a long running cell as completed, like when training a machine learning model for example.  Visual and Audio notifications are available as well as a multi-modal alerts.
 
 ## Installation
 To install the most recent stable release run `pip install inotifications`.
